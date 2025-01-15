@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin involving exception handling within a fold operation. The initial code throws an exception if the number 3 is encountered during the fold process. The solution shows how to gracefully handle this exception using a try-catch block, providing more robust error handling.
